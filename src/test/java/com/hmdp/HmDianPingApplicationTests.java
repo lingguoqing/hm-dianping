@@ -53,4 +53,9 @@ class HmDianPingApplicationTests {
     }
 
 
+    @Test
+    void testRedisson(){
+
+    }
+
 }
